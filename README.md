@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://github.com/ItsReZNuM.png" alt="Reza Mohamadnia" width="150"/>
+  <div style="border-radius: 50%; overflow: hidden; width: 150px; height: 150px;">
+    <img src="https://github.com/ItsReZNuM.png" alt="Reza Mohamadnia" width="150"/>
+  </div>
 </p>
 
 <p align="center">
