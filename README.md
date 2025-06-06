@@ -1,7 +1,5 @@
 <p align="center">
-  <div style="border-radius: 50%; overflow: hidden; width: 150px; height: 150px;">
-    <img src="https://github.com/ItsReZNuM.png" alt="Reza Mohamadnia" width="150"/>
-  </div>
+  <img src="https://github.com/ItsReZNuM.png" alt="Reza Mohamadnia" style="border-radius: 50%; width: 150px; height: 150px;" />
 </p>
 
 <p align="center">
@@ -9,6 +7,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C4B4¢er=true&vCenter=true&width=600&lines=Welcome+To+ItsReZNuM's+GitHub;Python+Developer+%26+Tech+Enthusiast;Building+Cool+Projects+with+Code;Let's+Connect+and+Create!" alt="Typing SVG" />
   </a>
 </p>
+
 # 💫 About Me:
 Hi, I'm Reza Mohamadnia, Senior Python Developer 🐍  
 College student at Lorestan University, Iran, passionate about tech and innovation.  
