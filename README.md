@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ItsReZNuM">
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C4B4¢er=true&vCenter=true&width=600&lines=Welcome+To+ItsReZNuM's+GitHub;Python+Developer+%26+Tech+Enthusiast;Building+Cool+Projects+with+Code;Let's+Connect+and+Create!">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C4B4¢er=true&vCenter=true&width=600&lines=Welcome+To+ItsReZNuM's+GitHub;Python+Developer+%26+Tech+Enthusiast;Building+Cool+Projects+with+Code;Let's+Connect+and+Create!" alt="Typing SVG" />
   </a>
 </p>
