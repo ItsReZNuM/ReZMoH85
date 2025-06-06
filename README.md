@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="https://github.com/ItsReZNuM.png" alt="Reza Mohamadnia" width="150"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ItsReZNuM">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C4B4¢er=true&vCenter=true&width=600&lines=Welcome+To+ItsReZNuM's+GitHub;Python+Developer+%26+Tech+Enthusiast;Building+Cool+Projects+with+Code;Let's+Connect+and+Create!" alt="Typing SVG" />
+  </a>
+</p>
 # 💫 About Me:
 Hi, I'm Reza Mohamadnia, Senior Python Developer 🐍  
 College student at Lorestan University, Iran, passionate about tech and innovation.  
@@ -32,7 +41,7 @@ When I'm not coding, you might find me editing videos or diving into the latest 
 
 # 📊 GitHub Stats:
 ![Reza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItsReZNuM&show_icons=true&theme=neon&rank_icon=github&hide=prs)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsReZNuM&layout=donut&langs_count=8&theme=neon)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsReZNuM&layout=compact&theme=neon)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
