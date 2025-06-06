@@ -1,9 +1,8 @@
 # 💫 About Me:
-Hi , I'm Reza Mohamadnia , Junior Python Developer <br>College Student for NOW , in Lorsestan University, Iran<br>Interested in computer and everything in Tech !
+Hi , I'm Reza Mohamadnia , Senior Python Developer <br>College Student for NOW , in Lorsestan University, Iran<br>Interested in computer and everything in Tech !
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rez.num) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rmohamadnia85@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/ItsReZNuM)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/rez.num)
@@ -23,13 +22,10 @@ Hi , I'm Reza Mohamadnia , Junior Python Developer <br>College Student for NOW ,
 ![](https://github-readme-stats.vercel.app/api?username=ItsReZNuM&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsReZNuM&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ReZMoH85&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ReZMoH85&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ItsReZNuM&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
