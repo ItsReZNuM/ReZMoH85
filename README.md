@@ -1,12 +1,10 @@
 <p align="center">
-  <img src="https://github.com/ItsReZNuM.png" alt="Reza Mohamadnia" style="border-radius: 50%; width: 150px; height: 150px;" />
+  <div style="border-radius: 50%; overflow: hidden; width: 150px; height: 150px;">
+    <img src="https://github.com/ItsReZNuM.png" alt="Reza Mohamadnia" style="width: 100%; height: 100%; object-fit: cover;" />
+  </div>
 </p>
 
-<p align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C4B4¢er=true&vCenter=true&width=600&lines=Welcome+To+ItsReZNuM's+GitHub;Python+Developer+%26+Tech+Enthusiast;Building+Cool+Projects+with+Code;Let's+Connect+and+Create!">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C4B4¢er=true&vCenter=true&width=600&lines=Welcome+To+ItsReZNuM's+GitHub;Python+Developer+%26+Tech+Enthusiast;Building+Cool+Projects+with+Code;Let's+Connect+and+Create!" alt="Typing SVG" />
-  </a>
-</p>
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Poppins&size=24&pause=1000&color=FF007A&center=true&vCenter=true&width=600&lines=Welcome+To+ItsReZNuM%27s+GitHub;Python+Developer+%26+Tech+Enthusiast;Building+Cool+Projects+with+Code;Let%27s+Connect+and+Create!;Crafting+Code,+Shaping+the+Future;Turning+Ideas+into+Reality+with+Python;Passionate+About+Open-Source+%26+Innovation;Code+Hard,+Dream+Big)
 
 # 💫 About Me:
 Hi, I'm Reza Mohamadnia, Senior Python Developer 🐍  
