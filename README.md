@@ -1,7 +1,5 @@
 <p align="center">
-  <div style="border-radius: 50%; overflow: hidden; width: 150px; height: 150px;">
-    <img src="https://avatars.githubusercontent.com/ItsReZNuM?s=150" alt="Reza Mohamadnia" style="width: 100%; height: 100%; object-fit: cover;" />
-  </div>
+  <img src="https://github.com/ItsReZNuM.png" alt="Reza Mohamadnia" style="border-radius: 70%; width: 150px; height: 150px;" />
 </p>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Poppins&size=24&pause=1000&color=FF007A&center=true&vCenter=true&width=600&lines=Welcome+To+ItsReZNuM%27s+GitHub;Python+Developer+%26+Tech+Enthusiast;Building+Cool+Projects+with+Code;Let%27s+Connect+and+Create!;Crafting+Code,+Shaping+the+Future;Turning+Ideas+into+Reality+with+Python;Passionate+About+Open-Source+%26+Innovation;Code+Hard,+Dream+Big)
