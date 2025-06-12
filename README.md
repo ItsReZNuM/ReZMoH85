@@ -1,6 +1,6 @@
 <p align="center">
   <div style="border-radius: 50%; overflow: hidden; width: 150px; height: 150px;">
-    <img src="https://github.com/ItsReZNuM.png" alt="Reza Mohamadnia" style="width: 100%; height: 100%; object-fit: cover;" />
+    <img src="https://avatars.githubusercontent.com/ItsReZNuM?s=150" alt="Reza Mohamadnia" style="width: 100%; height: 100%; object-fit: cover;" />
   </div>
 </p>
 
