@@ -30,6 +30,11 @@ When I'm not coding, you might find me editing videos or diving into the latest 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+![pyTelegramBotAPI](https://img.shields.io/badge/pyTelegramBotAPI-4.22.0-blue?logo=telegram)
+![Requests](https://img.shields.io/badge/requests-2.32.3-green?logo=python)
+![BeautifulSoup](https://img.shields.io/badge/beautifulsoup4-4.12.3-orange?logo=html5)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.115.0-009688?logo=fastapi)
+![Pydantic](https://img.shields.io/badge/Pydantic-2.9.2-E92063?logo=pydantic)
 
 ### Multimedia
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white)
