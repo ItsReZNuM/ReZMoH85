@@ -41,12 +41,34 @@ When I'm not coding, you might find me editing videos or diving into the latest 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
+## 🟩 Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ItsReZNuM/ReZMoH85/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ItsReZNuM/ReZMoH85/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ItsReZNuM/ReZMoH85/output/github-contribution-grid-snake.svg" />
+</picture>
+
+
+
+<p align="center">
+  <!-- Custom Contribution Bar (15 squares, latest on the right) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Balram-1&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+---
+
 # 📊 GitHub Stats:
 ![Reza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItsReZNuM&show_icons=true&theme=neon&rank_icon=github&hide=prs)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsReZNuM&layout=compact&theme=neon)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Happy+Coding+%F0%9F%92%BB" alt="Typing SVG" />
+</p>
 
 
 
