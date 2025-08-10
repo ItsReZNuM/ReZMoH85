@@ -10,6 +10,16 @@ College student at Lorestan University, Iran, passionate about tech and innovati
 I love building tools that solve real-world problems, from AI to automation, and I'm always exploring new tech stacks!  
 When I'm not coding, you might find me editing videos or diving into the latest tech trends. 🚀
 
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ItsReZNuM&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/stars/ItsReZNuM?style=for-the-badge&label=Stars" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/followers/ItsReZNuM?style=for-the-badge&label=Followers" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Joined%20GitHub-2022-blueviolet?style=for-the-badge" alt="Joined GitHub" />
+</p>
+
+---
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rmohamadnia85@gmail.com)
@@ -41,19 +51,9 @@ When I'm not coding, you might find me editing videos or diving into the latest 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
-## 🟩 Contribution Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ItsReZNuM/ReZMoH85/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ItsReZNuM/ReZMoH85/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ItsReZNuM/ReZMoH85/output/github-contribution-grid-snake.svg" />
-</picture>
-
-
-
 <p align="center">
   <!-- Custom Contribution Bar (15 squares, latest on the right) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Balram-1&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ItsReZNuM&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 ---
