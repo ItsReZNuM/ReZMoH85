@@ -49,9 +49,9 @@ When I'm not coding, you might find me editing videos or diving into the latest 
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/pyTelegramBotAPI-4.22.0-blue?logo=telegram" />
   <img src="https://img.shields.io/badge/requests-2.32.3-green?logo=python" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/beautifulsoup4-4.12.3-orange?logo=html5" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-0.115.0-009688?logo=fastapi" />
   <img src="https://img.shields.io/badge/Pydantic-2.9.2-E92063?logo=pydantic" />
 </p>
