@@ -2,7 +2,9 @@
   <img src="https://github.com/ItsReZNuM.png" alt="Reza Mohamadnia" style="border-radius: 70%; width: 150px; height: 150px;" />
 </p>
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Poppins&size=24&pause=1000&color=FF007A&center=true&vCenter=true&width=600&lines=Welcome+To+ItsReZNuM%27s+GitHub;Python+Developer+%26+Tech+Enthusiast;Building+Cool+Projects+with+Code;Let%27s+Connect+and+Create!;Crafting+Code,+Shaping+the+Future;Turning+Ideas+into+Reality+with+Python;Passionate+About+Open-Source+%26+Innovation;Code+Hard,+Dream+Big)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=24&pause=1000&color=FF007A&center=true&vCenter=true&width=600&lines=Welcome+To+ItsReZNuM%27s+GitHub;Python+Developer+%26+Tech+Enthusiast;Building+Cool+Projects+with+Code;Let%27s+Connect+and+Create!;Crafting+Code,+Shaping+the+Future;Turning+Ideas+into+Reality+with+Python;Passionate+About+Open-Source+%26+Innovation;Code+Hard,+Dream+Big" alt="Header Texts" />
+</p>
 
 # 💫 About Me:
 Hi, I'm Reza Mohamadnia, Senior Python Developer 🐍  
