@@ -66,6 +66,12 @@ When I'm not coding, you might find me editing videos or diving into the latest 
   <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white" />
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ItsReZNuM/ItsReZNuM/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ItsReZNuM/ItsReZNuM/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ItsReZNuM/ItsReZNuM/output/github-contribution-grid-snake.svg">
+</picture>
+
 <p align="center">
   <!-- Custom Contribution Bar (15 squares, latest on the right) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ItsReZNuM&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
