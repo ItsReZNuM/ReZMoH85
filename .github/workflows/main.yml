@@ -1,31 +1,22 @@
- # نام این GitHub Action
 name: Generate Snake Animation
 
-# تنظیمات زمان اجرا
 on:
-  # این اکشن هر ۱۲ ساعت یک بار به صورت خودکار اجرا می‌شود
   schedule:
     - cron: "0 */12 * * *"
-  # این گزینه به شما اجازه می‌دهد اکشن را به صورت دستی هم اجرا کنید
   workflow_dispatch:
 
-# کارهایی که باید انجام شود
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # مرحله اول: استفاده از اکشن snk برای ساخت انیمیشن
       - uses: Platane/snk@v3
         with:
-          # نام کاربری گیت‌هاب شما (این کد به صورت خودکار نام شما را تشخیص می‌دهد)
           github_user_name: ${{ github.repository_owner }}
 
-          # مشخص کردن فایل‌های خروجی همراه با رنگ‌های تم نئون
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#00b4d8&color_dots=#03045e,#0077b6,#00b4d8,#90e0ef,#caf0f8
 
-      # مرحله دوم: قرار دادن فایل‌های ساخته شده در یک branch جدید به نام output
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
