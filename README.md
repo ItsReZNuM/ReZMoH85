@@ -80,16 +80,11 @@ When I'm not coding, you might find me editing videos or diving into the latest 
 ---
 
 # 📊 GitHub Stats:
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=ItsReZNuM&show_icons=true&theme=neon&rank_icon=github&hide=prs" alt="Reza's GitHub Stats" />
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsReZNuM&layout=compact&theme=neon" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+![Reza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItsReZNuM&show_icons=true&theme=neon&rank_icon=github&hide=prs)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsReZNuM&layout=compact&theme=neon)
+
+---
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
